@@ -1,0 +1,52 @@
+{
+  "name": "mine",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://alanbinu.com/",
+  "dependencies": {
+    "@alan-ai/alan-sdk-web": "^1.8.28",
+    "@lottiefiles/lottie-player": "^1.7.1",
+    "@testing-library/jest-dom": "^5.11.10",
+    "@testing-library/react": "^11.2.6",
+    "@testing-library/user-event": "^12.8.3",
+    "baseui": "^9.112.0",
+    "emailjs-com": "^2.6.4",
+    "gh-pages": "^3.2.3",
+    "glamor": "^2.20.40",
+    "lottie-react": "^2.4.0",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.5.2",
+    "react-dom": "^17.0.2",
+    "react-ga": "^3.3.0",
+    "react-github-calendar": "^4.0.1",
+    "react-helmet": "^6.1.0",
+    "react-hot-toast": "^2.4.1",
+    "react-reveal": "^1.2.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "styled-components": "^5.2.3",
+    "styletron-engine-atomic": "^1.4.7",
+    "styletron-react": "^6.0.1",
+    "typewriter-effect": "^2.20.1",
+    "web-vitals": "^1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ]
+}
