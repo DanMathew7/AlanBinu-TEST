@@ -72,13 +72,13 @@ class Education extends Component {
             </div>
           </Fade>
           <br />
-          <h3 className="heading-sub-text" style={{fontSize:40}}>
-          I am recognized as a certified professional through..
+          <h3 className="heading-sub-text-new" style={{fontSize:40}}>
+          <h1><span>I am recognized as a certified professional through..</span></h1>
               <br />
             </h3>
           <div class="containerCer">
             <div class="box">
-            <span class="ribbon1"><span>Offically</span></span>
+            <span class="ribbon1"><span>Officially Certified</span></span>
               <img src={ibm} alt="IBM" />
               <div class="text">
               <p
@@ -97,6 +97,7 @@ class Education extends Component {
               </div>
             </div>
             <div class="box">
+            <span class="ribbon1"><span>Officially Certified</span></span>
               <img src={meta} alt="Meta" />
               <div class="text">
                 <p

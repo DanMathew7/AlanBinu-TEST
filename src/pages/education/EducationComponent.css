@@ -46,6 +46,13 @@
   color: orange;
 }
 
+.heading-sub-text-new {
+  font-size: 30px;
+  font-family: "Google Sans Regular";
+  text-align: center;
+  color: orange;
+}
+
 
 .organizations-img {
   width: 300px;
@@ -206,4 +213,52 @@
   .ribbon {
     width: 48%;
   }
+}
+
+
+.heading-sub-text-new h1 {
+  font-weight: normal;
+  position: relative;
+  background: #F4F9FA;
+  width: 80%;
+  color: #d87607;
+  text-align: center;
+  padding: 10px 20px;
+  margin: 20px auto 40px;
+  text-transform: uppercase;
+  border-radius: 2px;
+}
+.heading-sub-text-new h1:before, 
+.heading-sub-text-new h1:after {
+  content: "";
+  position: absolute;
+  top: -6px;
+  border: 18px solid #DCF4F4;
+}
+.heading-sub-text-new h1:before {
+  left: -36px;
+  border-right-width: 18px;
+  border-left-color: transparent;
+}
+.heading-sub-text-new h1:after {
+  right: -36px;
+  border-left-width: 18px;
+  border-right-color: transparent;
+}
+.heading-sub-text-new h1 span:before, 
+.heading-sub-text-new h1 span:after {
+  content: "";
+  position: absolute;
+  border-style: solid;
+  border-color: #A7CECC transparent transparent transparent;
+  top: -6px;
+  transform: rotate(180deg);
+}
+.heading-sub-text-new h1 span:before {
+  left: 0;
+  border-width: 6px 0 0 6px;
+}
+.heading-sub-text-new h1 span:after {
+  right: 0;
+  border-width: 6px 6px 0 0;
 }
