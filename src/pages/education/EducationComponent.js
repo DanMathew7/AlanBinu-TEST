@@ -71,6 +71,10 @@ class Education extends Component {
               </div>
             </div>
           </Fade>
+          <h3 className="heading-sub-text" style={{fontSize:40}}>
+          My Valuable Certified Accomplishments
+              <br />
+            </h3>
           <div class="containerCer">
             <div class="box">
               <img src={ibm} alt="IBM" />
