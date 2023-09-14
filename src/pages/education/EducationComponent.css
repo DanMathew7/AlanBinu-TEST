@@ -217,23 +217,24 @@
 
 
 .heading-sub-text-new h1 {
-  font-weight: normal;
-  position: relative;
-  background: #F4F9FA;
-  width: 80%;
-  color: #d87607;
+
+  font-size: 30px;
+  font-family: "Google Sans Regular";
   text-align: center;
+  color: orange;
+  width: 60%;
+  position: relative;
+  background: #616f72;
   padding: 10px 20px;
   margin: 20px auto 40px;
-  text-transform: uppercase;
-  border-radius: 2px;
+  border-radius: 0 0 10px 10px;
 }
 .heading-sub-text-new h1:before, 
 .heading-sub-text-new h1:after {
   content: "";
   position: absolute;
   top: -6px;
-  border: 18px solid #DCF4F4;
+  border: 18px solid #94a4a4;
 }
 .heading-sub-text-new h1:before {
   left: -36px;
