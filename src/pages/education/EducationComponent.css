@@ -217,7 +217,6 @@
 
 
 .heading-sub-text-new h1 {
-
   font-size: 30px;
   font-family: "Google Sans Regular";
   text-align: center;
@@ -228,6 +227,7 @@
   padding: 10px 20px;
   margin: 20px auto 40px;
   border-radius: 0 0 10px 10px;
+  letter-spacing: 1px;
 }
 .heading-sub-text-new h1:before, 
 .heading-sub-text-new h1:after {

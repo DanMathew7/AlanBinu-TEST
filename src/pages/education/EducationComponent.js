@@ -27,6 +27,7 @@ import m11 from "../../images/m11.png";
 import scrum from "../../images/scrum.png";
 import meta from "../../images/meta.png";
 import ibm from "../../images/ibm1.png";
+import verified from "../../images/Verified.png";
 import Stars from "../../components/Stars/Stars";
 
 class Education extends Component {
@@ -74,11 +75,11 @@ class Education extends Component {
           <br />
           <br />
           <h3 className="heading-sub-text-new" style={{fontSize:40}}>
-          <h1><span>I am recognized as a certified professional through..</span></h1>
+          <h1><span>Accredited As A Certified Professional</span></h1>
             </h3>
           <div class="containerCer">
             <div class="box">
-            <span class="ribbon1"><span>Officially Certified</span></span>
+            <span class="ribbon1"><span>12 months at 10 hours a week to complete</span></span>
               <img src={ibm} alt="IBM" />
               <div class="text">
               <p
@@ -94,11 +95,12 @@ class Education extends Component {
                 >
                   Certificte No : <span style={{color:"white",fontWeight:"bold"}}>BUDCPWS7WFKM</span>
                 </p>
+                  <br /><img src={verified} style={{height:150}}/>
               </div>
             </div>
             <div class="box">
-            <span class="ribbon1"><span>Officially Certified</span></span>
-              <img src={meta} alt="Meta" />
+            <span class="ribbon1"><span>8 months at 6 hours a week to complete</span></span>
+              <img src={meta} alt="Meta" style={{height:168}}/>
               <div class="text">
                 <p
                   className="experience-header-detail-text subTitle"
@@ -112,6 +114,7 @@ class Education extends Component {
                 >
                   Certificte No : <span style={{color:"white",fontWeight:"bold"}}>QDRP9HJQMFS6</span>
                 </p>
+                  <br /><img src={verified} style={{height:150}}/>
               </div>
             </div>
           </div>
