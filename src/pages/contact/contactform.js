@@ -44,7 +44,7 @@ export default class ContactForm extends Component {
               placeholder="Name"
               required
             />
-            <br />
+            {/* <br /> */}
             <input
               type="email"
               name="email"
@@ -52,7 +52,7 @@ export default class ContactForm extends Component {
               placeholder="Email"
               required
             />
-            <br />
+            {/* <br /> */}
 
             <input
               type="text"
@@ -61,7 +61,7 @@ export default class ContactForm extends Component {
               placeholder="Subject"
               required
             />
-            <br />
+            {/* <br /> */}
 
             <textarea
               class="contact-form-text"
@@ -72,8 +72,6 @@ export default class ContactForm extends Component {
             <br />
 
             <input type="submit" class="contact-form-btn" value="Send" />
-            <br />
-            <br />
             <br />
             <br />
           </form>
