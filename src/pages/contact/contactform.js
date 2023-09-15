@@ -69,11 +69,12 @@ export default class ContactForm extends Component {
               placeholder="Message"
               required
             ></textarea>
-            <br />
+            
 
             <input type="submit" class="contact-form-btn" value="Send" />
             <br />
             <br />
+
           </form>
         </div>
       </>
