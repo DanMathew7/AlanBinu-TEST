@@ -64,8 +64,9 @@ export default function Greeting(props) {
       </div>
       <div className="content-primary">
         <h1>
-          A <span>Meta & IBM Certified Back-End Developer</span>. Master in <span>Core Java</span> & <span>Spring Boot</span>{" "}
-          with Solid <span>MSc</span> fundamentals.
+          A <span>Meta & IBM Certified Back-End Developer</span>. Master in{" "}
+          <span>Core Java</span> & <span>Spring Boot</span> with Solid{" "}
+          <span>MSc</span> fundamentals.
         </h1>
       </div>
 
