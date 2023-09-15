@@ -74,48 +74,70 @@ class Education extends Component {
           </Fade>
           <br />
           <br />
-          <h3 className="heading-sub-text-new" style={{fontSize:40}}>
-          <h1><span>Accredited As A Certified Professional</span></h1>
-            </h3>
+          <h3 className="heading-sub-text-new" style={{ fontSize: 40 }}>
+            <h1>
+              <span>Accredited as a Certified Professional</span>
+            </h1>
+          </h3>
           <div class="containerCer">
             <div class="box">
-            <span class="ribbon1"><span>12 months at 10 hours a week to complete</span></span>
+              <span class="ribbon1">
+                <span>Approx 12 months at 10 hours a week to complete</span>
+              </span>
               <img src={ibm} alt="IBM" />
-              <div class="text">
-              <p
-                  className="experience-header-detail-text subTitle"
-                  style={{ color: theme.secondaryText,fontSize:25 }}
-                >
-                  <br/>
-                  IBM Certified Professional Back-End Developer.
-                  </p><br />
-                  <p
-                  className="experience-header-detail-text subTitle"
-                  style={{ color: theme.secondaryText}}
-                >
-                  Certificte No : <span style={{color:"white",fontWeight:"bold"}}>BUDCPWS7WFKM</span>
-                </p>
-                  <br /><img src={verified} style={{height:150}}/>
-              </div>
-            </div>
-            <div class="box">
-            <span class="ribbon1"><span>8 months at 6 hours a week to complete</span></span>
-              <img src={meta} alt="Meta" style={{height:168}}/>
               <div class="text">
                 <p
                   className="experience-header-detail-text subTitle"
-                  style={{ color: theme.secondaryText,fontSize:25 }}
+                  style={{ color: theme.secondaryText, fontSize: 25 }}
                 >
-                  Meta Certified Professional Back-End Developer.
-                  </p><br />
-                  <p
+                  <br />
+                  IBM Certified Professional Back-End Developer.
+                </p>
+                <br />
+                <p
                   className="experience-header-detail-text subTitle"
                   style={{ color: theme.secondaryText }}
                 >
-                  Certificte No : <span style={{color:"white",fontWeight:"bold"}}>QDRP9HJQMFS6</span>
+                  Certificte No :{" "}
+                  <span style={{ color: "white", fontWeight: "bold" }}>
+                    BUDCPWS7WFKM
+                  </span>
                 </p>
-                  <br /><img src={verified} style={{height:150}}/>
+                <br />
+                <img src={verified} style={{ height: 150 }} />
               </div>
+              <span class="ribbon3">
+                <span>$499 USD</span>
+              </span>
+            </div>
+            <div class="box">
+              <span class="ribbon1">
+                <span>Approx 8 months at 6 hours a week to complete</span>
+              </span>
+              <img src={meta} alt="Meta" style={{ height: 168 }} />
+              <div class="text">
+                <p
+                  className="experience-header-detail-text subTitle"
+                  style={{ color: theme.secondaryText, fontSize: 25 }}
+                >
+                  Meta Certified Professional Back-End Developer.
+                </p>
+                <br />
+                <p
+                  className="experience-header-detail-text subTitle"
+                  style={{ color: theme.secondaryText }}
+                >
+                  Certificte No :{" "}
+                  <span style={{ color: "white", fontWeight: "bold" }}>
+                    QDRP9HJQMFS6
+                  </span>
+                </p>
+                <br />
+                <img src={verified} style={{ height: 150 }} />
+              </div>
+              <span class="ribbon3">
+                <span>$449 USD</span>
+              </span>
             </div>
           </div>
           <center>
