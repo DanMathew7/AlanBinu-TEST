@@ -170,8 +170,8 @@
   width: 0;
   height: 0;
   border-left: 53px solid transparent;
-  border-right: 53px solid transparent;
-  border-top: 10px solid #F8463F;
+  border-right: 47px solid transparent;
+  border-top: 22px solid #F8463F;
 }
 .ribbon1 span {
   position: relative;
@@ -201,7 +201,7 @@
  left: -8px;
  top: 0;
  border-radius: 8px 8px 0 0;
- background: #C02031;
+ background: #605959;
 }
 
 @media (min-width: 500px) {
