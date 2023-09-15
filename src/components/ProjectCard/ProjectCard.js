@@ -3,14 +3,6 @@ import ProjectLanguages from "../projectLanguages/ProjectLanguages";
 import "./ProjectCard.css";
 import { Fade } from "react-reveal";
 import { style } from "glamor";
-import github1 from '../../images/Github_Project1.png'
-import github2 from '../../images/Github_Project2.png'
-import github3 from '../../images/Github_Project3.png'
-import github4 from '../../images/Github_Project4.png'
-import github5 from '../../images/Github_Project5.png'
-import github6 from '../../images/Github_Project6.png'
-import github7 from '../../images/Github_Project7.png'
-import github8 from '../../images/Github_Project8.png'
 
 
 export default function ProjectCard({ repo, theme }) {

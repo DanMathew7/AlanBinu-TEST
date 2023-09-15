@@ -42,7 +42,7 @@ function Header(props) {
                 activeStyle={{ fontWeight: "bold" }}
                 style={{ borderRadius: 5, color: theme.text }}
               >
-                Education
+                Education & Archivements
               </NavLink>
             </li>
             <li>
