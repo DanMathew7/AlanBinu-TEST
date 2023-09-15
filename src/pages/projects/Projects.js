@@ -77,7 +77,7 @@ function Projects(props) {
       <br />
       <br />
       <a href="https://github.com/AlanBinu007" target="_blank">
-        <button className="button1">Explore More (GitHub)</button>
+        <button className="buttonMore">Explore More (GitHub)</button>
       </a>
       <br />
       <br />
