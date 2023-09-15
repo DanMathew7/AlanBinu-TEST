@@ -3,6 +3,7 @@ import ProjectLanguages from "../projectLanguages/ProjectLanguages";
 import "./ProjectCard.css";
 import { Fade } from "react-reveal";
 import { style } from "glamor";
+import github1 from '../../images/github1.png'
 
 export default function ProjectCard({ repo, theme }) {
   const styles = style({
@@ -43,7 +44,7 @@ export default function ProjectCard({ repo, theme }) {
             <p className="repo-description" style={{ color: theme.text }}>
               {repo.tech}
             </p>
-
+            <img src={github1} />
             <a href={repo.url} target="_blank" rel="noopener noreferrer">
               <div
                 className="visit-btn"

@@ -1,6 +1,5 @@
 .projects-main {
   width: 100%;
-  text-align: center;
 }
 
 .basic-projects {
@@ -21,6 +20,7 @@
   color: rgb(31, 29, 25);
   padding: 15px 15px;
   margin-top: 25px;
+  margin-left: 40%;
   border-radius: 4px;
   border-width: 0px;
   margin-bottom: 20px;
