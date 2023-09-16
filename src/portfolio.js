@@ -614,11 +614,11 @@ const projects = {
       id: "1",
       name: "Spring Boot Advanced Projects",
       live: "",
-      image:"https://raw.githubusercontent.com/DanMathew7/images/main/Github_Project1.png",
+      image:"https://raw.githubusercontent.com/DanMathew7/imagesnew/main/Github_Project1.png",
       url: "https://github.com/AlanBinu007/Spring-Boot-Advanced-Projects",
       tech: "Technologies Used : Thymeleaf, Spring Cloud, Spring Security,  PostgreSql, MySql, MongoDb, Junit, H2-Database, Logging, Logging and Logout, Swagger 2, API Calls, REST API, SLF4J, LOG4J2, Jersey, ActiveMQ",
       description:
-        "💖💖Here we are maked almost all types of Spring Boot Applications that you suggested via linkedin/Gmail, If you are looking something that is out of the box then just ping me in linkedin or mail with your required project i will make the template/full project for you for free",
+        "💖💖Here we are maked almost all types of Spring Boot Applications that you suggested via linkedin/Gmail, If you are looking something that is out of the box then just ping me in linkedin or mail what you are looking for",
       languages: [
         {
           name: "Java",
@@ -634,11 +634,11 @@ const projects = {
       id: "2",
       name: "ReactJs & Spring Boot Full Stack Development",
       live: "",
-      image:"https://raw.githubusercontent.com/DanMathew7/images/main/Github_Project2.png",
+      image:"https://raw.githubusercontent.com/DanMathew7/imagesnew/main/Github_Project2.png",
       url: "https://github.com/AlanBinu007/ReactJs-SpringBoot-Full-Stack-Development",
       tech: "Technologies Used : ReactJs, Spring Boot, Spring Security, PostgreSql, MySql, REST API",
       description:
-        "💥💥Full Stack Development using ReactJs and Spring Boot. Here we are used MySql, MongoDb and PostgreSql database to store the data. We also implemented the Spring Security. Here we can understand add, view, edit and delete operations. This is the template/project that we are given to our junior colleagues in our college knowledge workshop",
+        "💥💥Full Stack Development using ReactJs and Spring Boot. This is the template/project that we are given to our junior colleagues in our college knowledge workshop and also for the Interview prep",
       languages: [
         {
           name: "ReactJs",
@@ -664,10 +664,10 @@ const projects = {
           name: "HTML",
           iconifyClass: "logos-html-5",
         },
-        {
-          name: "SASS",
-          iconifyClass: "logos-sass",
-        },
+        // {
+        //   name: "SASS",
+        //   iconifyClass: "logos-sass",
+        // },
         {
           name: "NODEJS",
           iconifyClass: "logos-nodejs",
@@ -682,7 +682,7 @@ const projects = {
     {
       id: "3",
       name: "Real Time Chat Application",
-      image:"https://raw.githubusercontent.com/DanMathew7/images/main/Github_Project3.png",
+      image:"https://raw.githubusercontent.com/DanMathew7/imagesnew/main/Github_Project3.png",
       url: "https://github.com/AlanBinu007/Realtime-Chat-Application-ReactJs",
       live: "https://alanbinu-mychat.firebaseapp.com/",
       tech: "Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI, Javacript",
@@ -750,11 +750,11 @@ const projects = {
       id: "4",
       name: "Covid-19 Tracker",
       url: "https://github.com/AlanBinu007/React-Covid19-Tracker",
-      image:"https://raw.githubusercontent.com/DanMathew7/images/main/Github_Project4.png",
+      image:"https://raw.githubusercontent.com/DanMathew7/imagesnew/main/Github_Project4.png",
       live: "https://alanbinu-covid19-tracker.web.app/",
-      tech: "Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI, Javacript, NodeJs, ExpressJs and SASS",
+      tech: "Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI, Javacript",
       description:
-        "New updated Covid -19 tracker with neat and clean UI. Here we can able to sort and search by different country. Here we used ReactJs and basic HTML5 and CSS.",
+        "New updated Covid -19 tracker with neat and clean UI. Here we can able to sort and search by different country. Here we used ReactJs to fetch the data from Covid Open API then extarct and organize for the users",
       languages: [
         {
           name: "ReactJS",
@@ -809,7 +809,7 @@ const projects = {
       name: "Netflix Clone",
       url: "https://github.com/AlanBinu007/netflix_clone",
       live: "https://alanbinu-netflix.web.app/",
-      image:"https://raw.githubusercontent.com/DanMathew7/images/main/Github_Project5.png",
+      image:"https://raw.githubusercontent.com/DanMathew7/imagesnew/main/Github_Project5.png",
       tech: "Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI, Javacript",
       description:
         "A clean and full customizable clean Netflix Clone using React and tmdb API.",
@@ -865,7 +865,7 @@ const projects = {
       name: "Amazon Clone",
       url: "https://github.com/AlanBinu007/amazone_clone_react",
       live: "https://alanbinu-ecommerce.web.app/",
-      image:"https://raw.githubusercontent.com/DanMathew7/images/main/Github_Project6.png",
+      image:"https://raw.githubusercontent.com/DanMathew7/imagesnew/main/Github_Project6.png",
       tech: "Technologies Used : ReactJs, HTML, CSS, BootStrap, Material UI, Javacript",
       description:
         "Here i created an full functional Amazon clone application using React",
@@ -889,9 +889,9 @@ const projects = {
       name: "Covid-19 tracker Using Spring Boot",
       url: "https://github.com/AlanBinu007/Covid-19-Spring",
       live: "",
-      image:"https://raw.githubusercontent.com/DanMathew7/images/main/Github_Project7.png",
+      image:"https://raw.githubusercontent.com/DanMathew7/imagesnew/main/Github_Project7.png",
       tech: "Technologies Used : SpringBoot, HTML, CSS, BootStrap, Javacript",
-      description: "Simple Covid-19tracking software using spring boot",
+      description: "Simple Covid-19 tracking software using spring boot and simple Html binded with thyleaf. Here we are fetching data from and Open Sourse named \"githubusercontent\"",
       languages: [
         {
           name: "SpringBoot",
@@ -908,7 +908,7 @@ const projects = {
       name: "Spring Employee CURD Application",
       url: "https://github.com/AlanBinu007/Spring-Employee-CURD",
       live: "",
-      image:"https://raw.githubusercontent.com/DanMathew7/images/main/Github_Project8.png",
+      image:"https://raw.githubusercontent.com/DanMathew7/imagesnew/main/Github_Project8.png",
       tech: "Technologies Used : SpringBoot, HTML, CSS, BootStrap, Material UI",
       description:
         "Here we used spring boot as back-end and thymeleaf as  web site template. The app contain creation, Deletion, Ediiting and fetching the employee details",
