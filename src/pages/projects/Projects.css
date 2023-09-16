@@ -75,10 +75,10 @@
 
 .repo-cards-div-main {
   display: grid;
-  /* grid-template-columns: repeat(auto-fit, minmax(500px, 1fr)); */
+  grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
   gap: 3rem 3rem;
-  margin-left: 250px;
-  margin-right: 250px;
+  margin-left: 140px;
+  margin-right: 140px;
   margin-top: 60px;
 }
 

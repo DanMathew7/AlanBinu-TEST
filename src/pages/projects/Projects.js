@@ -65,10 +65,10 @@ function Projects(props) {
           </div>
         </Fade>
       </div>
-      <div className="repo-cards-div-main">
         <center>
           <h2>My Open Source Commitments</h2>
         </center>
+      <div className="repo-cards-div-main">
         {projects.data.map((repo) => {
           return <ProjectCard repo={repo} theme={theme} />;
         })}
