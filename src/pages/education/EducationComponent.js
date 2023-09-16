@@ -91,6 +91,7 @@ class Education extends Component {
                   style={{ color: theme.secondaryText, fontSize: 25 }}
                 >
                   <br />
+                  <br />
                   IBM Certified Professional Back-End Developer.
                 </p>
                 <p
