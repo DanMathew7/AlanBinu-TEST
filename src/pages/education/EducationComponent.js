@@ -137,6 +137,68 @@ class Education extends Component {
               </span>
             </div>
           </div>
+
+
+<div class="containerCer">
+            <div class="box">
+              <span class="ribbon1">
+                <span>Approx 6 months at 10 hours a week to complete</span>
+              </span>
+              <img src={ibm} alt="IBM" />
+              <div class="text">
+                <p
+                  className="experience-header-detail-text subTitle"
+                  style={{ color: theme.secondaryText, fontSize: 25 }}
+                >
+                  <br />
+                  <br />
+                  Google IT Support Professional Certificate with 12 Credits.
+                </p>
+                <p
+                  className="experience-header-detail-text subTitle"
+                  style={{ color: theme.secondaryText }}
+                >
+                  Certificte No :{" "}
+                  <span style={{ color: "white", fontWeight: "bold" }}>
+                  U3SMLX6RNRH7
+                  </span>
+                </p>
+                <img src={verified} style={{ height: 150 }} />
+              </div>
+              <span class="ribbon3">
+                <span>$245 USD</span>
+              </span>
+            </div>
+            <div class="box">
+              <span class="ribbon1">
+                <span>Approx 6 months at 10 hours a week to complete</span>
+              </span>
+              <img src={meta} alt="Meta" style={{ height: 168 }} />
+              <div class="text">
+                <p
+                  className="experience-header-detail-text subTitle"
+                  style={{ color: theme.secondaryText, fontSize: 25 }}
+                >
+                  Meta Certified Professional Back-End Developer.
+                </p>
+                <p
+                  className="experience-header-detail-text subTitle"
+                  style={{ color: theme.secondaryText }}
+                >
+                  Certificte No :{" "}
+                  <span style={{ color: "white", fontWeight: "bold" }}>
+                    QDRP9HJQMFS6
+                  </span>
+                </p>
+                <img src={verified} style={{ height: 150 }} />
+              </div>
+              <span class="ribbon3">
+                <span>$449 USD</span>
+              </span>
+            </div>
+          </div>
+
+
           <center>
             <h3 className="heading-sub-text">
               Verified Digital Badges
