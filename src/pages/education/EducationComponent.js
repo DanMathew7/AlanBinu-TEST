@@ -26,6 +26,7 @@ import m10 from "../../images/m10.png";
 import m11 from "../../images/m11.png";
 import scrum from "../../images/scrum.png";
 import meta from "../../images/meta.png";
+import google from "../../images/Google.png";
 import ibm from "../../images/ibm1.png";
 import verified from "../../images/Verified.png";
 import Stars from "../../components/Stars/Stars";
@@ -144,15 +145,14 @@ class Education extends Component {
               <span class="ribbon1">
                 <span>Approx 6 months at 10 hours a week to complete</span>
               </span>
-              <img src={ibm} alt="IBM" />
+              <img src={google} alt="IBM" />
               <div class="text">
                 <p
                   className="experience-header-detail-text subTitle"
                   style={{ color: theme.secondaryText, fontSize: 25 }}
                 >
-                  <br />
-                  <br />
-                  Google IT Support Professional Certificate with 12 Credits.
+                  <br/>
+                  Google IT Support Professional Certificate with 12 Online College Degree Credits.
                 </p>
                 <p
                   className="experience-header-detail-text subTitle"
@@ -171,15 +171,17 @@ class Education extends Component {
             </div>
             <div class="box">
               <span class="ribbon1">
-                <span>Approx 6 months at 10 hours a week to complete</span>
+                <span>Approx 12 months at 10 hours a week to complete</span>
               </span>
-              <img src={meta} alt="Meta" style={{ height: 168 }} />
+              <img src={ibm} alt="Ibm"  />
+              <br/>
+              <br/>
               <div class="text">
                 <p
                   className="experience-header-detail-text subTitle"
                   style={{ color: theme.secondaryText, fontSize: 25 }}
                 >
-                  Meta Certified Professional Back-End Developer.
+                  IBM Certified Professional Dev-Ops Engineer.
                 </p>
                 <p
                   className="experience-header-detail-text subTitle"
@@ -193,7 +195,7 @@ class Education extends Component {
                 <img src={verified} style={{ height: 150 }} />
               </div>
               <span class="ribbon3">
-                <span>$449 USD</span>
+                <span>$499 USD</span>
               </span>
             </div>
           </div>
