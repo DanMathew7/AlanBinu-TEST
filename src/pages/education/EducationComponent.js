@@ -256,7 +256,7 @@ class Education extends Component {
           </center>
           <center>
             <h3 className="heading-sub-text">
-              Verified Digital Badges from Azure
+              Digital Badges and Trophies from Azure Cloud
               <br />
               <br />
             </h3>
