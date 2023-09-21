@@ -181,7 +181,7 @@ class Education extends Component {
                   className="experience-header-detail-text subTitle"
                   style={{ color: theme.secondaryText, fontSize: 25 }}
                 >
-                  IBM Certified Professional Dev-Ops Engineer.
+                  IBM Certified Applied Devops Engineering.
                 </p>
                 <p
                   className="experience-header-detail-text subTitle"
